@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\bin\Debug\net7.0\CheckCloseness.exe
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\bin\Debug\net7.0\CheckCloseness.deps.json
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\bin\Debug\net7.0\CheckCloseness.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\bin\Debug\net7.0\CheckCloseness.dll
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\bin\Debug\net7.0\CheckCloseness.pdb
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.dll
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\refint\CheckCloseness.dll
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.pdb
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\CheckCloseness.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\CheckCloseness\obj\Debug\net7.0\ref\CheckCloseness.dll

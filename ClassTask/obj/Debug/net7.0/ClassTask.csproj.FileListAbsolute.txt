@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\ClassTask\bin\Debug\net7.0\ClassTask.exe
+C:\Users\OMEN\Desktop\VS Code\ClassTask\bin\Debug\net7.0\ClassTask.deps.json
+C:\Users\OMEN\Desktop\VS Code\ClassTask\bin\Debug\net7.0\ClassTask.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\ClassTask\bin\Debug\net7.0\ClassTask.dll
+C:\Users\OMEN\Desktop\VS Code\ClassTask\bin\Debug\net7.0\ClassTask.pdb
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.dll
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\refint\ClassTask.dll
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.pdb
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ClassTask.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\ClassTask\obj\Debug\net7.0\ref\ClassTask.dll
